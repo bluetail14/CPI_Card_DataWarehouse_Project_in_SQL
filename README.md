@@ -1,2 +1,2 @@
-# Coursera_Capstone_Project
+# CPI_Card_DataWarehouse_Project
 Capstone project
