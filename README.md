@@ -1,2 +1,2 @@
 # CPI_Card_DataWarehouse_Project
-Capstone project
+Capstone project for a coursera course using PostgreSQL.
